@@ -1,0 +1,118 @@
+{
+  "format": "pixel.asset.project",
+  "version": 1,
+  "algorithm": "pixel-center-rgb709-v1",
+  "settings": {
+    "mode": "target",
+    "width": 48,
+    "height": 48,
+    "pixel_step": 4,
+    "colors": 12,
+    "fit": "contain",
+    "dither": 0.12,
+    "alpha_threshold": 128,
+    "alpha_mode": "binary",
+    "outline": false,
+    "normal_levels": 0,
+    "normal_flip_y": false,
+    "normal_flip_x": false
+  },
+  "groups": {
+    "crystal": {
+      "palette": [
+        [
+          38,
+          100,
+          159
+        ],
+        [
+          35,
+          128,
+          173
+        ],
+        [
+          54,
+          162,
+          212
+        ],
+        [
+          107,
+          154,
+          215
+        ],
+        [
+          104,
+          156,
+          216
+        ],
+        [
+          102,
+          158,
+          217
+        ],
+        [
+          98,
+          162,
+          218
+        ],
+        [
+          94,
+          165,
+          219
+        ],
+        [
+          90,
+          169,
+          220
+        ],
+        [
+          87,
+          172,
+          221
+        ],
+        [
+          145,
+          240,
+          248
+        ],
+        [
+          190,
+          250,
+          250
+        ]
+      ],
+      "locked": [],
+      "settings": {}
+    }
+  },
+  "assets": [
+    {
+      "id": "crystal_0",
+      "source": "crystal_0.png",
+      "normal": null,
+      "group": "crystal",
+      "metadata": {}
+    },
+    {
+      "id": "crystal_1",
+      "source": "crystal_1.png",
+      "normal": null,
+      "group": "crystal",
+      "metadata": {}
+    },
+    {
+      "id": "crystal_2",
+      "source": "crystal_2.png",
+      "normal": null,
+      "group": "crystal",
+      "metadata": {}
+    },
+    {
+      "id": "crystal_3",
+      "source": "crystal_3.png",
+      "normal": null,
+      "group": "crystal",
+      "metadata": {}
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+numpy>=1.26,<3
+Pillow>=10,<14
+PySide6-Essentials>=6.8,<7
