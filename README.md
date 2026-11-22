@@ -1,5 +1,7 @@
 # Pixel Studio
 
+[![Checks](https://github.com/minjiyong/Pixel-Studio/actions/workflows/checks.yml/badge.svg)](https://github.com/minjiyong/Pixel-Studio/actions/workflows/checks.yml)
+
 **PNG 에셋을 묶음으로 도트화하고, 팔레트·투명도·노멀맵을 함께 관리하는 Windows 데스크톱 도구입니다.**
 
 하르벤 제작 도구에서 Python 부분을 분리했습니다. Godot이나 하르벤 서버 없이 실행할 수 있으며, GUI와 명령행 일괄 출력을 모두 제공합니다.

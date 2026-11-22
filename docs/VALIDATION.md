@@ -25,3 +25,9 @@
 ## 자동 검사
 
 GitHub Actions에서 Windows / Python 3.12로 같은 회귀 테스트를 실행하도록 구성했습니다. 원격 실행 결과는 [Actions](https://github.com/minjiyong/Pixel-Studio/actions)에서 확인합니다.
+
+## GitHub Actions 실행 결과
+
+- 실제 원격 실행: **성공** — [검사 실행 기록](https://github.com/minjiyong/Pixel-Studio/actions/runs/45013377568)
+- Windows / Python 3.12의 새 체크아웃에서 코어·UI 회귀 테스트 8개를 통과했습니다.
+- 검사한 소스 커밋: `2937157de6eb6dedab93dde77cfad83c895815d4`. 이 결과를 추가하는 후속 변경은 문서만 수정합니다.
